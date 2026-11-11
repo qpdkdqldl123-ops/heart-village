@@ -1,0 +1,11 @@
+# Cloudflare Pages 용 (GitHub Pages 는 이 파일을 무시해요): 새 버전이 바로 보이게 해 둬요
+/
+  Cache-Control: no-cache
+/index.html
+  Cache-Control: no-cache
+/config.js
+  Cache-Control: no-cache
+/sw.js
+  Cache-Control: no-cache
+/manifest.webmanifest
+  Content-Type: application/manifest+json
